@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jean Paul  
 
 💻 **Desarrollador Web**  
-Me apasiona crear interfaces limpias, funcionales y optimizadas.  
+actualmente estudiante de ingenieria informatica, programador en proceso y me apasiona crear interfaces limpias, funcionales y optimizadas.  
 
 ## 🚀 Tecnologías que uso  
 <p align="left">
@@ -11,5 +11,5 @@ Me apasiona crear interfaces limpias, funcionales y optimizadas.
 </p>
 
 ---
-
+me pueden contactar a mi correo personal jeanhb30@gmail.com
 ⭐️ ¡Gracias por visitar mi perfil!  
